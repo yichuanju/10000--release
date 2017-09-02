@@ -1,3 +1,18 @@
+## 1.4.2 (2017-09-03)
+
+
+### Improvement
+
+* Change icons of side menu
+* Add ripple effect for items in side menu
+
+
+### Bug Fixes
+
+* Update one picture
+* Fix a style of calendar
+
+
 ## 1.4.1 (2017-07-21)
 
 

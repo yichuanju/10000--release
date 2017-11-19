@@ -1,3 +1,12 @@
+## 1.5.0 (2017-11-20)
+
+
+### Improvement
+
+* Add WebView version detector
+* Update to ionic 3.9.2 and angular 5
+
+
 ## 1.4.2 (2017-09-03)
 
 
